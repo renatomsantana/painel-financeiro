@@ -17,7 +17,7 @@ streamlit run app.py
 
 ## Deploy grátis
 
-Suba no [Streamlit Cloud](https://streamlit.io/cloud) conectando o repositório GitHub — fica online sem custo.
+Suba no [Streamlit Cloud](https://streamlit.io/cloud) conectando o repositório GitHub, fica online sem custo.
 
 ## Fonte dos dados
 
